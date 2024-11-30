@@ -21,4 +21,3 @@ public class Main {
         System.out.println("\nEngine Type of ElectricCar: " + electricCar.getEngineType());
     }
 }
-

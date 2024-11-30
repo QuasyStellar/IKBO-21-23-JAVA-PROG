@@ -21,4 +21,3 @@ public class ElectricCar extends Car {
         return super.getCarInfo() + ", Battery Capacity: " + batteryCapacity + " kWh";
     }
 }
-
